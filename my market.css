@@ -100,7 +100,7 @@ li{
   animation: font 2s  ease both;
 }
 .zaic3:hover{
-  background-image: url('food.jpg');
+  background-image: url('Food.jpg');
   background-position: flex;
   background-size: cover;
   background-position: center;
@@ -116,7 +116,7 @@ li{
 }
 
 .zaic6:hover{
-  background-image: url('Images/WA.jpg');
+  background-image: url('WA.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
